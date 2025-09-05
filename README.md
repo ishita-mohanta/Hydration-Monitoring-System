@@ -5,3 +5,18 @@ This project presents a hydration monitoring system built on an Arduino Uno and 
 The system continuously tracks readings and calculates hydration percentage, displaying the results in real time on an LCD display. 
 A buzzer alert is triggered when hydration levels fall below a set threshold, ensuring timely notifications for the user. 
 The goal of the project is to provide a low-cost, practical, and accessible solution for monitoring hydration, thereby helping to prevent dehydration-related complications and supporting everyday health management.
+
+## Features
+Arduino Uno-based system for sensor integration and control
+
+Three homemade sensors measuring hydration via conductivity
+
+Real-time LCD display for hydration percentage
+
+Buzzer alerts when hydration falls below threshold
+
+Cost-effective design with accessible components
+
+Continuous monitoring for preventive health tracking
+
+Applicable for active users and medical use cases
